@@ -1,0 +1,17 @@
+ℹ️ Inroduction :
+IoT Smart Home Automation is a solution that enable us to control our home appliaces through Mobile, PC/Laptop, Alexa, Google Assistant and Telegram. This project even provides user to monitor power consumption of respective devices.
+The purpose of our IoT Smart Home Automation is to provide a technological tool for today’s techno savvy that provide various functions which are significantly useful in current world for saving and efficiently using electricity.
+art Features :
+User can control home appliance in following ways:
+Mobile
+PC/Laptop
+Google Assistant
+Amazon Alexa
+Telegram
+FB Messenger
+
+User can keep track of power consumption of the appliances:
+Show estimated bill based on previous usage.
+Consumption data can be filtered by date.
+Smart light mode:
+This feature is implemented using PIR Motion Sensor which detects movement of leaving objects. Thus when any person is in the range of sensor, light will be turned on otherwise turned off automatically.
